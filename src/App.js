@@ -1,5 +1,4 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
 import Card from "./components/Card";
 
 function App() {
@@ -45,19 +44,19 @@ function App() {
         <div className="py-5 bg-blue">
           <div className="container">
             <div className="row">
-              <div className="col-md-3">
+              <div className="col-md-3 border-right">
                 <h6 className="text-center">Certified Public Accountants</h6>
                 <h5 className="color-blue font-weight-bold text-center">
                   +20,000
                 </h5>
               </div>
-              <div className="col-md-3">
+              <div className="col-md-3 border-right">
                 <h6 className="text-center">Reports sent in the System</h6>
                 <h5 className="color-blue font-weight-bold text-center">
                   +670,000
                 </h5>
               </div>
-              <div className="col-md-3">
+              <div className="col-md-3 border-right">
                 <h6 className="text-center">Registered Business</h6>
                 <h5 className="color-blue font-weight-bold text-center">
                   +15,000

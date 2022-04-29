@@ -17,3 +17,6 @@
   color: #1c98ff;
 }
 
+.border-right {
+  border-right: 2px solid #1c98ff !important;
+}
