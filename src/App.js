@@ -72,6 +72,128 @@ function App() {
           </div>
         </div>
       </div>
+      <div className="my-5">
+        <div className="container">
+          <h1 className="font-weight-bold text-center">How to get start</h1>
+          <p className="text-center mb-5">
+            Use the search bar to find a photo or browse by your preferred
+            category
+          </p>
+          <div className="row mt-5 py-4">
+            <div className="col-md-3 mt-5">
+              <div className="br-12 p-3 shadow text-center">
+                <div className="round-110p bg-dark mt-n6 mx-auto mb-3 d-flex justify-content-center align-items-center">
+                  <h1 className="text-white">1</h1>
+                </div>
+                <img className="w-80p" src="assets/img/web1%20-%20Copy.png" />
+                <h6 className="font-weight-bold">Download</h6>
+                <p>
+                  Use the search bar to find a photo or browse by your preferred
+                  category
+                  <br />
+                </p>
+              </div>
+            </div>
+            <div className="col-md-3">
+              <div className="br-12 p-3 shadow text-center">
+                <div className="round-110p bg-dark mt-n6 mx-auto mb-3 d-flex justify-content-center align-items-center">
+                  <h1 className="text-white">2</h1>
+                </div>
+                <img
+                  className="w-80p"
+                  src="assets/img/web1%20-%20Copy%20(2).png"
+                />
+                <h6 className="font-weight-bold">Download</h6>
+                <p>
+                  Use the search bar to find a photo or browse by your preferred
+                  category
+                  <br />
+                </p>
+              </div>
+            </div>
+            <div className="col-md-3 mt-5">
+              <div className="br-12 p-3 shadow text-center">
+                <div className="round-110p bg-dark mt-n6 mx-auto mb-3 d-flex justify-content-center align-items-center">
+                  <h1 className="text-white">3</h1>
+                </div>
+                <img
+                  className="w-80p"
+                  src="assets/img/web1%20-%20Copy%20(3).png"
+                />
+                <h6 className="font-weight-bold">Download</h6>
+                <p>
+                  Use the search bar to find a photo or browse by your preferred
+                  category
+                  <br />
+                </p>
+              </div>
+            </div>
+            <div className="col-md-3">
+              <div className="br-12 p-3 shadow text-center">
+                <div className="round-110p bg-dark mt-n6 mx-auto mb-3 d-flex justify-content-center align-items-center">
+                  <h1 className="text-white">4</h1>
+                </div>
+                <img
+                  className="w-80p"
+                  src="assets/img/web1%20-%20Copy%20(4).png"
+                />
+                <h6 className="font-weight-bold">Download</h6>
+                <p>
+                  Use the search bar to find a photo or browse by your preferred
+                  category
+                  <br />
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-light-blue py-5">
+        <div className="container">
+          <div className="row">
+            <div className="col">
+              <div className="br-8 shadow p-4 bg-white">
+                <img
+                  className="w-100"
+                  src="assets/img/web1%20-%20Copy%20(5).png"
+                />
+              </div>
+            </div>
+            <div className="col">
+              <div className="br-8 shadow p-4 bg-white">
+                <img
+                  className="w-100"
+                  src="assets/img/web1%20-%20Copy%20(6).png"
+                />
+              </div>
+            </div>
+            <div className="col">
+              <div className="br-8 shadow p-4 bg-white">
+                <img
+                  className="w-100"
+                  src="assets/img/web1%20-%20Copy%20(7).png"
+                />
+              </div>
+            </div>
+            <div className="col">
+              <div className="br-8 shadow p-4 bg-white">
+                <img
+                  className="w-100"
+                  src="assets/img/web1%20-%20Copy%20(8).png"
+                />
+              </div>
+            </div>
+            <div className="col">
+              <div className="br-8 shadow p-4 bg-white">
+                <img
+                  className="w-100"
+                  src="assets/img/web1%20-%20Copy%20(9).png"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </>
   );
 }
