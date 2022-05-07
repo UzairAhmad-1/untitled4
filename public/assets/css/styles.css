@@ -2,6 +2,10 @@
   background-image: linear-gradient(to right, #dff1fe, #c9e5fd, #dff1fe);
 }
 
+.bg-header-gradient {
+  background-image: linear-gradient(to bottom, #dff1fe, #dff1fe, #fff);
+}
+
 .icon-box {
   width: 80px;
   height: 80px;
@@ -41,5 +45,26 @@
 
 .br-8 {
   border-radius: 8px;
+}
+
+.h-80p {
+  height: 80px;
+}
+
+.f-20 {
+  font-size: 20px;
+}
+
+.footer-basic {
+  padding: 35px 0;
+  color: #4b4c4d;
+}
+
+.footer-basic .copyright {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 13px;
+  color: #aaa;
+  margin-bottom: 0;
 }
 
