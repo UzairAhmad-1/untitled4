@@ -42,7 +42,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="container">
+      <div className="container" id="who-we-are">
         <div className="row align-items-center">
           <div className="col-md-6">
             <img className="w-100" src="assets/img/fullWeb%20(3).png" />
@@ -65,7 +65,7 @@ function App() {
         </div>
       </div>
 
-      <div className="py-5 bg-gradient">
+      <div className="py-5 bg-gradient" id="how-it-works">
         <div className="container">
           <div className="row">
             <div className="col-md-4 d-flex flex-column justify-content-between">
@@ -101,7 +101,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="py-5 bg-blue">
+      <div className="py-5 bg-blue" id="figures">
         <div className="container">
           <div className="row">
             <div className="col-md-3 border-right">
@@ -131,7 +131,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="my-5">
+      <div className="my-5" id="benifits">
         <div className="container">
           <h1 className="font-weight-bold text-center">How to get start</h1>
           <p className="text-center mb-5">

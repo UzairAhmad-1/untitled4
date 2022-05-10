@@ -23,23 +23,23 @@ const Navbar = (props) => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="#who-we-are">
                 About Us
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="#how-it-works">
                 How It Works
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
-                Benifits
+              <a className="nav-link" href="#figures">
+                Some Numbers
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
-                Some Numbers
+              <a className="nav-link" href="#benifits">
+                Benifits
               </a>
             </li>
           </ul>
